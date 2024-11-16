@@ -1,5 +1,5 @@
 <header>
-theme: minima
+
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
@@ -38,6 +38,7 @@ We need to use a blog-ready theme. For this activity, we will use a theme named 
    ```yml
    theme: minima
    ```
+   theme: minima
 1. (optional) You can modify the other configuration variables such as `title:`, `author:`, and `description:` to further customize your site.
 1. Commit your changes.
 1. (optional) Create a pull request to view all the changes you'll make throughout this course. Click the **Pull Requests** tab, click **New pull request**, set `base: main` and `compare:my-pages`.
